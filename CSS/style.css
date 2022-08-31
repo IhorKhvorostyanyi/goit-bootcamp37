@@ -1,0 +1,28 @@
+body {
+  background-color: #f9f9fd;
+}
+
+.box-outlet {
+  height: 90px;
+  width: 100px;
+  background-color: #3f51b5;
+  padding: 15px 10px 30px 70px;
+}
+
+.box-inner {
+  /*width: 70px;*/
+  background-color: #4cbf50;
+  display: flex;
+}
+
+.box-text {
+  display: inline-block;
+  width: 100%;
+  align-content: center;
+  background-color: aqua;
+  margin: 5px;
+}
+
+.content-text {
+  text-align: center;
+}
